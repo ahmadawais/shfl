@@ -22,7 +22,7 @@ npm install shfl
 ## Usage
 
 ```js
-const shfl = require('shfl');
+import shfl from 'shfl'
 const data = [1, 2, 3, 4, 5];
 const shuffledData = shfl(data); // [1, 2, 5, 3, 4]
 ```

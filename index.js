@@ -3,4 +3,4 @@
  *
  * @param {Array} array Data to shuffle.
  */
-module.exports = array => array.sort(() => 0.5 - Math.random());
+export default array => array.sort(() => 0.5 - Math.random());
