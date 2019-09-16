@@ -1,6 +1,6 @@
 {
 	"name": "shfl",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Shuffle array items and return an array.",
 	"license": "MIT",
 	"repository": "ahmadawais/shfl",
