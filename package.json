@@ -17,8 +17,5 @@
 		"shfl",
 		"Ahmad Awais",
 		"ahmadawais"
-	],
-	"scripts": {
-		"test": "node test.js"
-	}
+	]
 }

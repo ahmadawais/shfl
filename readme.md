@@ -23,9 +23,24 @@ npm install shfl
 
 ```js
 const shfl = require('shfl');
+const data = [1, 2, 3, 4, 5];
+const shuffledData = shfl(data); // [1, 2, 5, 3, 4]
 ```
 
 <br>
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### shfl(input)
+
+#### ❯ input
+
+Type: `Array`<br>
+Returns: `Array`
 
 [![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
 
