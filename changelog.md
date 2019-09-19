@@ -29,11 +29,27 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [2.0.0](https://github.com/ahmadawais/shfl/compare/1.1.0...2.0.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Stable randomness [`5a8f16c`](https://github.com/ahmadawais/shfl/commit/5a8f16c86113e54e77f6208c33c9f54fc131514a) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.1.0](https://github.com/ahmadawais/shfl/compare/1.0.0...1.1.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Web package [`34b1365`](https://github.com/ahmadawais/shfl/commit/34b13654f4a201a916d370bcfee46e5a1505638c) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`41fb1d4`](https://github.com/ahmadawais/shfl/commit/41fb1d43378bdcf2a0d16a0cf4029e5074d363e5) <br>
 
 <br>
 
