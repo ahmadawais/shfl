@@ -24,7 +24,7 @@ npm install shfl
 ```js
 import shfl from 'shfl'
 const data = [1, 2, 3, 4, 5];
-const shuffledData = shfl(data); // [1, 2, 5, 3, 4]
+const shuffledData = shfl(data); // [4, 2, 5, 3, 1]
 ```
 
 <br>
